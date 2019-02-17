@@ -1,0 +1,11 @@
+[package]
+name = "rbc"
+version = "0.1.0"
+authors = ["Mitchell Hynes <mitchell.hynes@ecumene.xyz>"]
+edition = "2018"
+
+[root]
+name = "rbc"
+version = "1.0.0"
+
+[dependencies]
